@@ -1,6 +1,6 @@
 # Penalty-Aware Bidding for Virtual Power Plants: A Robust Integration of Penalty Regimes
 
-**Manuscript (PDF):** [Penalty-Aware Bidding for Virtual Power Plants](Penalty-Aware%20Bidding%20for%20Virtual%20Power%20Plants.pdf)
+**Manuscript (PDF):** [Penalty-Aware Bidding for Virtual Power Plants: A Robust Integration of Penalty Regimes](Penalty-Aware%20Bidding%20for%20Virtual%20Power%20Plants.pdf)
 
 ## Status
 
